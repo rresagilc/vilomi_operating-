@@ -12,8 +12,8 @@
   },
   "dependencies": {
     "rresag_tea-": "^1.0.0",
-    "vilomi_operating ": "^1.0.0",
-    "minti_fulkerson ": "0.1.4"
+    "vilomi_operating": "^1.0.0",
+    "minti_fulkerson": "0.1.4"
   },
   "author": "",
   "license": "ISC",
