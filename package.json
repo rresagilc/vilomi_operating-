@@ -1,0 +1,24 @@
+{
+  "name": "vilomi_operating-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rresagilc/vilomi_operating-.git"
+  },
+  "dependencies": {
+    "rresag_tea-": "^1.0.0",
+    "vilomi_operating ": "^1.0.0",
+    "minti_fulkerson ": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rresagilc/vilomi_operating-/issues"
+  },
+  "homepage": "https://github.com/rresagilc/vilomi_operating-#readme"
+}
